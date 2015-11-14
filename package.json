@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Nodevember Challenge Node.js & Socket.io app",
   "author": {
-    "name": "YOUR_INFO"
+    "name": "Rich Leland",
+    "email" : "rich.leland@sparkpost.com",
+    "url" : "https://developers.sparkpost.com/"
   },
   "dependencies": {
     "express": "^4.10.2",
